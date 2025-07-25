@@ -1,0 +1,7 @@
+dependencies:
+  - python>=3.6
+  - fitz  # PyMuPDF的主要依赖
+  - pytesseract
+  - pillow  # PIL的现代分支
+  - tkinter  # 通常随Python默认安装，某些环境可能需要单独安装
+  - pymupdf  # fitz的实际安装包名称
