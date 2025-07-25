@@ -23,13 +23,7 @@
 
 ### 安装步骤
 
-1. 克隆仓库
-```bash
-git clone https://github.com/yourusername/pdf-to-txt-converter.git
-cd pdf-to-txt-converter
-```
-
-2. 安装依赖包
+安装依赖包
 ```bash
 pip install -r requirements.txt
 ```
