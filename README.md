@@ -1,4 +1,4 @@
-# pdftotxt工具
+# pdf2txt工具
 
 一个简单易用的PDF转文本工具，通过OCR技术提取PDF中的文字内容，支持中英文混合识别。
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 1. 运行程序
 ```bash
-python pdttotxt.py
+python pdf2txt.py
 ```
 
 2. 操作流程
@@ -45,7 +45,7 @@ python pdttotxt.py
 
 ```
 pdf-to-txt-converter/
-├── pdttotxt.py       # 主程序文件
+├── pdf2txt.py       # 主程序文件
 ├── requirements.txt  # 依赖列表
 └── README.md         # 说明文档
 ```
